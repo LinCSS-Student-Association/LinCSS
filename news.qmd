@@ -1,0 +1,16 @@
+---
+title: "News"
+listing: 
+  type: default
+  sort: "date desc" 
+  sort-ui: [date]
+  filter-ui: [title, date]
+  contents: news
+  fields: [date, title, subtitle, description, image]
+  categories: true 
+---
+
+You can review the following documents for additional information:
+
+::: {#sample-listings}
+:::

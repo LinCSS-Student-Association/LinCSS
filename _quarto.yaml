@@ -37,9 +37,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://code.com
+            href:  https://github.com/thhaase/LinCSS
           - text: Report a Bug
-            href:  https://bugs.com
+            href:  https://github.com/thhaase/LinCSS/issues
 
   page-footer: 
     border: false

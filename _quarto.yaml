@@ -1,6 +1,8 @@
 project:
   type: website
-
+  render:
+    - "*.qmd"
+  output-dir: _docs
 
 website:
   title: "LinCSS"

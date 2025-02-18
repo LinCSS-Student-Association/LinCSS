@@ -1,0 +1,6 @@
+---
+title: "Cool Internship guide published!"
+date: 20-01-2025
+author: "Marc"
+description: "Marc wroite a nice guide for people interested in an internship"
+---

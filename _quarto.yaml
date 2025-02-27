@@ -34,6 +34,7 @@ website:
     tools:
       - icon: instagram
         href: https://www.instagram.com/info.lincss/
+        target: _blank
       - icon: github
         menu:
           - text: Source Code

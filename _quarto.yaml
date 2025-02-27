@@ -32,14 +32,14 @@ website:
       #  text: About
       #  icon: "bi-info-circle"
     tools:
-      - icon: twitter
-        href: https://twitter.com
+      - icon: instagram
+        href: https://www.instagram.com/info.lincss/
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/thhaase/LinCSS
+            href: https://github.com/LinCSS-Student-Association/LinCSS
           - text: Report a Bug
-            href:  https://github.com/thhaase/LinCSS/issues
+            href: https://github.com/LinCSS-Student-Association/LinCSS/issues
 
   page-footer: 
     border: false

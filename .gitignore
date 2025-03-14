@@ -1,2 +1,4 @@
+# avoid pushing local preview files to master branch 
+# (actual webpage is rendered & deployed by github in the gh-pages branch)
 /.quarto/
 docs/

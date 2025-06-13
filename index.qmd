@@ -1,5 +1,38 @@
-# Lin CSS
 
-- Nice
-- List
-- test
+
+<div class="center-text lightblue-h1"> Student Union of the LiU Computational Social Science Master Program </div>
+
+
+::: grid
+::: g-col-6
+
+## Useful Links for Students
+
+This is some example text
+:::
+::: g-col-6
+
+## Useful Links For New Students
+- Bullet
+- Points
+
+
+:::
+:::
+
+---
+
+<div class="center-text lightblue-h1"> Quick Navigation </div>
+
+<div class="grid button-container">
+  <div class="g-col-3 right-text  text-scp">[ [News](news.qmd) ]{.button}</div>
+  
+  <div class="g-col-3 center-text text-scp">[ [Membership](membership.qmd)]{.button}</div>
+  
+  <div class="g-col-3 center-text text-scp">[ [Board](board.qmd) ]{.button}</div>
+  
+  <div class="g-col-3 left-text   text-scp">[ [Arrival](guides/arrival.qmd) ]{.button}</div>
+  
+</div>
+\
+---

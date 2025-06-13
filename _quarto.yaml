@@ -6,7 +6,10 @@ project:
 
 website:
   title: "LinCSS"
+  favicon: ./ressources/logo_transp1.png
   navbar:
+    logo: ./ressources/logo_transp1.png
+    logo-alt: "LinCSS Logo"  
     search: false
     right:
       - href: index.qmd
@@ -51,6 +54,10 @@ website:
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light: 
+        - flatly
+        - styles_light.scss
+      dark: 
+        - darkly
+        - styles_dark.scss
     toc: false

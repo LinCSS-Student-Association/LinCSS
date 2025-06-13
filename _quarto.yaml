@@ -8,7 +8,7 @@ website:
   title: "LinCSS"
   favicon: ./ressources/logo_transp1.png
   navbar:
-    logo: ./ressources/logo_transp1.png
+    logo: ./ressources/logo.png
     logo-alt: "LinCSS Logo"  
     search: false
     right:

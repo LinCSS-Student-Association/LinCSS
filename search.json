@@ -18,35 +18,35 @@
     "href": "guides/arrival.html",
     "title": "Arrival Guide",
     "section": "",
-    "text": "Important\nInfo\n\n\n\nThis map showcases our favorite spots we think every new student should know. Explore at your own pace and uncover the hidden gems that make us students feel like home."
-  },
-  {
-    "objectID": "guides/arrival.html#discover-norrköping",
-    "href": "guides/arrival.html#discover-norrköping",
-    "title": "Arrival Guide",
-    "section": "",
-    "text": "This map showcases our favorite spots we think every new student should know. Explore at your own pace and uncover the hidden gems that make us students feel like home."
+    "text": "Arrival Guide\n\nImportant\nInfo"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "LinCSS",
     "section": "",
-    "text": "Student Union of the LiU Computational Social Science Master Program"
+    "text": "This site is currently under construction"
   },
   {
-    "objectID": "index.html#useful-links-for-students",
-    "href": "index.html#useful-links-for-students",
+    "objectID": "index.html#useful-links",
+    "href": "index.html#useful-links",
     "title": "LinCSS",
-    "section": "Useful Links for Students",
-    "text": "Useful Links for Students\nThis is some example text"
+    "section": "Useful Links",
+    "text": "Useful Links\n\nLisam\nCurriculum\nLadok\nLibrary\nGitlab\nPrinting"
   },
   {
-    "objectID": "index.html#useful-links-for-new-students",
-    "href": "index.html#useful-links-for-new-students",
+    "objectID": "index.html#for-new-students",
+    "href": "index.html#for-new-students",
     "title": "LinCSS",
-    "section": "Useful Links For New Students",
-    "text": "Useful Links For New Students\n\nBullet\nPoints"
+    "section": "For New Students",
+    "text": "For New Students\n\nCampus Map\nEduroam\nRemote Library Access (without VPN)\nVPN Setup\nRemote PC Access Setup"
+  },
+  {
+    "objectID": "index.html#for-applying-students",
+    "href": "index.html#for-applying-students",
+    "title": "LinCSS",
+    "section": "For Applying Students",
+    "text": "For Applying Students\n\nCampus Map\nEduroam\nRemote Library Access (without VPN)\nVPN Setup\nRemote PC Access Setup"
   },
   {
     "objectID": "news.html",

@@ -33,7 +33,7 @@
 
 
 ::: grid
-::: g-col-3
+::: g-col-6
 
 ## Useful Links
 - [Lisam](https://liuonline.sharepoint.com/sites/Lisam/SitePages/en/Home.aspx)
@@ -43,7 +43,7 @@
 - [Gitlab](https://gitlab.liu.se/)
 - [Printing](https://print.liu.se/)
 :::
-::: g-col-3
+::: g-col-6
 
 ## For New Students
 - [Campus Map](https://use.mazemap.com/#v=1&config=liu&campusid=754&zlevel=2&center=16.176302,58.589559&zoom=16.7)
@@ -52,16 +52,6 @@
 - [VPN Setup](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a)
 - [Remote PC Access Setup](https://rdpklienter.edu.liu.se/?l=en)
 :::
-::: g-col-3
-
-## For Applying Students
-- [Campus Map](https://use.mazemap.com/#v=1&config=liu&campusid=754&zlevel=2&center=16.176302,58.589559&zoom=16.7)
-- [Eduroam](https://minit.liu.se/myaccounts/Eduroam)
-- [Remote Library Access (without VPN)](https://liu.se/en/article/biblioteket-online)
-- [VPN Setup](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a)
-- [Remote PC Access Setup](https://rdpklienter.edu.liu.se/?l=en)
-:::
-
 :::
 
 

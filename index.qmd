@@ -1,38 +1,67 @@
 
+::: {.callout-warning}
+## This site is currently under construction
+:::
 
-<div class="center-text lightblue-h1"> Student Union of the LiU Computational Social Science Master Program </div>
+<div class="center-text lightblue-h1"
+ style="background-image: 
+ linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
+ url('./ressources/df46d46ddf39587d.png');
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ padding: 70px;
+ min-height: 150px;
+ backdrop-filter: blur(4px);">
+ Student Union of the LiU Computational Social Science Master Program
+</div>
+
+<!--
+<div class="center-text lightblue-h1"> Quick Navigation </div>
+-->
+
+<br>
+<br>
+<!--
+<div class="grid button-container">
+  <div class="g-col-3 right-text  text-scp">[ [News](news.qmd) ]{.button}</div>
+  <div class="g-col-3 center-text text-scp">[ [Membership](membership.qmd)]{.button}</div>
+  <div class="g-col-3 center-text text-scp">[ [Board](board.qmd) ]{.button}</div>
+  <div class="g-col-3 left-text   text-scp">[ [Arrival](guides/arrival.qmd) ]{.button}</div>
+</div>
+--> 
 
 
 ::: grid
-::: g-col-6
+::: g-col-3
 
-## Useful Links for Students
-
-This is some example text
+## Useful Links
+- [Lisam](https://liuonline.sharepoint.com/sites/Lisam/SitePages/en/Home.aspx)
+- [Curriculum](https://studieinfo.liu.se/en/program/F7MCD#curriculum)
+- [Ladok](https://www.student.ladok.se/student/app/studentwebb/)
+- [Library](https://research-ebsco-com.e.bibl.liu.se/c/xjonn2/search?autocorrect=y)
+- [Gitlab](https://gitlab.liu.se/)
+- [Printing](https://print.liu.se/)
 :::
-::: g-col-6
+::: g-col-3
 
-## Useful Links For New Students
-- Bullet
-- Points
+## For New Students
+- [Campus Map](https://use.mazemap.com/#v=1&config=liu&campusid=754&zlevel=2&center=16.176302,58.589559&zoom=16.7)
+- [Eduroam](https://minit.liu.se/myaccounts/Eduroam)
+- [Remote Library Access (without VPN)](https://liu.se/en/article/biblioteket-online)
+- [VPN Setup](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a)
+- [Remote PC Access Setup](https://rdpklienter.edu.liu.se/?l=en)
+:::
+::: g-col-3
 
+## For Applying Students
+- [Campus Map](https://use.mazemap.com/#v=1&config=liu&campusid=754&zlevel=2&center=16.176302,58.589559&zoom=16.7)
+- [Eduroam](https://minit.liu.se/myaccounts/Eduroam)
+- [Remote Library Access (without VPN)](https://liu.se/en/article/biblioteket-online)
+- [VPN Setup](https://liudesk.liu.se/tas/public/ssp/content/detail/knowledgeitem?unid=5781469d338240abb741d51b97eccb8a)
+- [Remote PC Access Setup](https://rdpklienter.edu.liu.se/?l=en)
+:::
 
 :::
-:::
 
----
 
-<div class="center-text lightblue-h1"> Quick Navigation </div>
-
-<div class="grid button-container">
-  <div class="g-col-3 right-text  text-scp">[ [News](news.qmd) ]{.button}</div>
-  
-  <div class="g-col-3 center-text text-scp">[ [Membership](membership.qmd)]{.button}</div>
-  
-  <div class="g-col-3 center-text text-scp">[ [Board](board.qmd) ]{.button}</div>
-  
-  <div class="g-col-3 left-text   text-scp">[ [Arrival](guides/arrival.qmd) ]{.button}</div>
-  
-</div>
-\
----

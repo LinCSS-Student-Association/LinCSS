@@ -57,7 +57,7 @@ format:
       light: 
         - flatly
         - styles_light.scss
-      dark: 
-        - darkly
-        - styles_dark.scss
+#      dark: 
+#        - darkly
+#        - styles_dark.scss
     toc: false

@@ -1,2 +1,18 @@
-# Become a Member!
+---
+format:
+  html:
+    toc: true
+---
+# Become a Member 
+- Profit from our Service
+- Help to provide a future for LinCSS
 
+# Become a Boardmember
+- Shape LinCSS
+
+# LinCSS By-Laws
+
+<object data='https://raw.githubusercontent.com/LinCSS-Student-Association/LinCSS/refs/heads/main/ressources/by-laws.pdf#toolbar=1' 
+        type='application/pdf' 
+        width='100%' height='700px'>
+</object>

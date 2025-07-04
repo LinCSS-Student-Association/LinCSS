@@ -1,6 +1,11 @@
 ---
-title: "Cool Internship guide published!"
-date: 20-01-2025
-author: "Marc"
-description: "Marc wroite a nice guide for people interested in an internship"
+listing:
+  contents:
+    - path: https://lincss-student-association.github.io/LinCSS/guides/internship.html
+      title: "Internship Guide"
+      author: "Marc Sparhuber"
+      description: "This Internshipguide helps you planning a potential Internship for your third Semester"
+      date: 20-01-2025
+      categories: [Guide, Internship]
 ---
+

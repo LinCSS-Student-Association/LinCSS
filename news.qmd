@@ -5,8 +5,16 @@ listing:
   sort: "date desc" 
   sort-ui: [date]
   filter-ui: [title, date]
-  contents: news
-  fields: [date, title, subtitle, description, image]
+  contents: 
+    - news
+    - path: https://lincss-student-association.github.io/LinCSS/guides/internship.html
+      title: "Internship Guide"
+      author: "Marc Sparhuber"
+      description: "This Internshipguide helps you planning a potential Internship for your third Semester"
+      date: 20-01-2025
+      categories: [Guide, Internship]
+
+  fields: [date, title, subtitle, description, image, categories]
   categories: true 
 ---
 

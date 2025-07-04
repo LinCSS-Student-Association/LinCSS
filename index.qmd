@@ -6,7 +6,7 @@
 <div class="center-text lightblue-h1"
  style="background-image: 
  linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
- url('./ressources/banner.jpg');
+ url('https://raw.githubusercontent.com/LinCSS-Student-Association/LinCSS/refs/heads/main/ressources/banner.jpg');
  background-size: cover;
  background-position: center;
  background-repeat: no-repeat;

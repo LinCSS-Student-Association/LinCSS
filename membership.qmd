@@ -12,7 +12,9 @@ format:
 
 # LinCSS By-Laws
 
-<object data='https://raw.githubusercontent.com/LinCSS-Student-Association/LinCSS/refs/heads/main/ressources/by-laws.pdf#toolbar=1' 
-        type='application/pdf' 
-        width='100%' height='700px'>
-</object>
+[📥 Download By-Laws PDF](./ressources/by-laws.pdf){download="by-laws.pdf"}
+
+::: {style="width: 100%; max-width: 640px; margin: 0 auto;"}
+![](./ressources/by-laws.pdf){width=100% height=480px}
+:::
+

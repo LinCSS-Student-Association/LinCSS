@@ -3,12 +3,20 @@ format:
   html:
     toc: true
 ---
-# Become a Member 
-- Profit from our Service
-- Help to provide a future for LinCSS
+# Support us!
+
+As an official section we serve all students enrolled in the Computational Social Science Masterprogram. With your support you give us the opportunity to improve our services for you. 
+
+::: {.callout-note}
+## Note 
+We are in the process of setting up a bankaccount. 
+If you are interested in supporting us despite that or in non-monetary ways, feel free to get in touch! 
+:::
+
 
 # Become a Boardmember
-- Shape LinCSS
+As part of the board you become part of the core of LinCSS. You will take part in our regular boardmeetings to organize events, take responsibilities and progress LinCSS as an organization.  
+
 
 # LinCSS By-Laws
 

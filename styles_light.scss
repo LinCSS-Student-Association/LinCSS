@@ -134,6 +134,36 @@ h2, h3, h4, h5, h6 {
 }
 
 
+// - Homepage Banner - //
+// Banner/Hero section styling
+.hero-banner {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 70px;
+  min-height: 150px;
+  backdrop-filter: blur(4px);
+  position: relative;
+  
+  // Use ::before pseudo-element for overlay so it doesn't get overridden
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6));
+    pointer-events: none;
+  }
+  
+  // Ensure text is above the overlay
+  > * {
+    position: relative;
+    z-index: 1;
+  }
+}
+
 
 // -- Blog Grid Styling -- //
 .quarto-grid-item {

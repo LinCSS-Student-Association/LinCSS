@@ -1,8 +1,30 @@
-# Corrent Board
+# Board Members of LinCSS
 
-Many nice pictures of us in a raster
+::: {layout-ncol=3}
+![](ressources/board_portraits/empty.png)
+
+![👑 Barbara - President](ressources/board_portraits/Barbara.jpg)
+
+![](ressources/board_portraits/empty.png)
+
+![💸 Vincent - Treasurer](ressources/board_portraits/Vincent.jpg)
+
+![📝 Viktor - Secretary](ressources/board_portraits/Viktor.jpg)
+
+![🗣️ Aleksandra - PR](ressources/board_portraits/Aleksandra.jpg)
+
+![✉️ Dominik - Alumni Contact](ressources/board_portraits/Dominik.jpg)
+
+![🐲 Yannick - Creative Mind](ressources/board_portraits/Yannick.jpg)
+
+![🧭 Johannes - Coordinator](ressources/board_portraits/Johannes.jpg)
+
+![🕸️ Thomas - Webmaster](ressources/board_portraits/Thomas.jpg)
+
+![👨‍🏫 Marc - Academic Advisor](ressources/board_portraits/Marc.jpg)
+
+![🥳 Yiwen - Event Coordinator](ressources/board_portraits/Yiwen.jpg)
+
+:::
 
 # Former Boardmembers
-- Thomas Schelling
-- Darth Vader
-- Jean-Luc Picard

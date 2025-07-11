@@ -1,255 +1,278 @@
 /*-- scss:defaults --*/
-
 //Import Fonts
-@import url('https://fonts.googleapis.com/css2?family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Nunito+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Urbanist:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-$font-family-serif: "Inria", serif; 
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Nunito+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Source+Code+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Urbanist:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+$font-family-serif: "Archivo Narrow", serif;
 //$font-family-sans-serif: "Urbanist", sans-serif;
 $font-family-sans-serif: "Nunito", sans-serif;
 $font-family-monospace: "Source Code Pro", monospace;
-
-
 $my-font-size: 25px;
 $my-width: 500px;
 
-// Colors
-//$color1: #0d0e08;
-//$color2: #0d0e08;
-$color1: #222222;
-$color2: #303030;
-$color3: #ffffff;
-$color4: #f7d737;
-$color5: #e1643c;
-$color6: #e1643c;
-$color7: #f7d737;
-// #6504e3
+// Dark Theme Colors
+$color1: #1a1a1a;        // Dark background (was white)
+$color2: #2d2d2d;        // Darker surface (was black)
+$color3: #e0e0e0;        // Light text (was white)
+$color4: #b0b0b0;        // Muted text (was dark grey)
+$color5: #03daf7;        // Accent cyan (unchanged)
+$color6: #00c4d7;        // Brighter accent (was darker)
+$color7: #f0f0f0;        // Primary text (was dark)
+$color8: #383838;        // Additional dark surface
+$color9: #4a4a4a;        // Lighter grey for hover states
+
 // Base document colors
-$navbar-bg: $color2; // navbar
-$navbar-fg: $color4; // navbar foreground elements
-$navbar-hl: $color5; // highlight color when hovering over navbar links
-$body-bg: $color1; // page background 
-$body-color: $color3; // page text 
-$footer-bg: $color2; // footer 
-$link-color: $color4; // hyperlinks 
+$navbar-bg: $color2; // navbar - dark surface
+$navbar-fg: $color3; // navbar foreground elements - light text
+$navbar-hl: $color5; // highlight color when hovering over navbar links - cyan
+$body-bg: $color1; // page background - dark
+$body-color: $color7; // page text - light
+$footer-bg: $color2; // footer - dark surface
+$link-color: $color6; // hyperlinks - bright cyan
 
 // Inline code
-$code-bg: $color5; // inline code background color
-$code-color: $color7; // inline code text color
+$code-bg: $color8; // inline code background color - dark grey
+$code-color: $color5; // inline code text color - cyan
 
 // Code blocks
-$code-block-bg: $color2; // code block background color
-
+$code-block-bg: $color2; // code block background color - dark surface
 
 /*-- scss:rules --*/
 h1 {
-  letter-spacing: 1px;
-  color: $color7;
+/*letter-spacing: 1px;*/
+color: $color7;
+text-shadow: 0px 0 2px #00e1ff;
 }
+
 h2, h3, h4, h5, h6 {
-  letter-spacing: 0px;
-  color: $color4;
+letter-spacing: 0px;
+color: $color4;
 }
 
-.orange-h1 {
-  font-size: 2rem; 
-  letter-spacing: 1px;
-  color: $color6;
-  font-family: "Nunito Sans";
-  font-weight: 600 ;
-}
-
-.orange-h1-weighted {
-  font-size: 2rem; 
-  letter-spacing: 1px;
-  color: $color6;
-  font-family: "Nunito Sans";
-  font-weight: 800 ;
-  line-height: 2;
-}
-
-.yellow-h1-weighted {
-  font-size: 2rem; 
-  letter-spacing: 0px;
-  color: $color4;
-  font-family: "Nunito Sans";
-  font-weight: 800 ;
-  line-height: 2;
-}
-
-.orange-h1-thicc {
-  font-size: 2rem; 
-  letter-spacing: 0px;
-  color: $color6;
-  font-family: "Source Code Pro";
-  font-weight: 600 ;
-}
-
-.orange-h2 {
-  font-size: 1.5rem; 
-  line-height: 0.6;
-  letter-spacing: 0px;
-  color: $color6;
-  font-family: "Nunito Sans";
-  font-weight: 600 ;
-}
-
-.orange-h2-thicc {
-  font-size: 1.5rem; 
-  line-height: 0.6;
-  letter-spacing: 0px;
-  color: $color6;
-  font-family: "Source Code Pro";
-  font-weight: 300 ;
+.lightblue-h1 {
+font-size: 2rem;
+/*letter-spacing: 1px;*/
+color: $color3;
+text-shadow: 1px 0 5px #00e1ff;
+font-family: "Archivo Narrow";
+font-weight: 800;
 }
 
 .small-grey-text {
-  font-size: 13px; #
-  line-height: 0.1;
-  color: #BDBDBD;
+font-size: 13px;
+line-height: 0.1;
+color: #808080; // Darker grey for dark theme
 }
 
 .orange-text {
-  color: $color6;
+color: $color6;
 }
 
 .text-scp {
-  font-family: "Source Code Pro";
+font-family: "Source Code Pro";
 }
 
 .text-no-underline {
-  text-decoration: none;
+text-decoration: none;
 }
 
 .center {
-  align-content: center;
-  align-items: center;
+align-content: center;
+align-items: center;
 }
 
 .center-text {
-  text-align: center;
+text-align: center;
 }
+
 .right-text {
-  text-align: right;
+text-align: right;
 }
+
 .left-text {
-  text-align: left;
+text-align: left;
 }
+
 .text-height2 {
-  line-height: 2;
+line-height: 2;
 }
 
 // .title {
-//  color: $color6;
+// color: $color6;
 //}
 
 .description {
-  color: $color6;
+color: $color7;
 }
 
 .link-text {
-  font-size: 1.5rem; 
-  line-height: 0.6;
-  color: $color4;
-  font-family: "Source Code Pro";
-  font-weight: 300 ;
+font-size: 1.5rem;
+line-height: 0.6;
+color: $color4;
+font-family: "Source Code Pro";
+font-weight: 300;
 }
 
 .dropdown-menu.show {
-  background: $color1;
+background: $color2; // Dark dropdown background
+border: 1px solid $color9; // Add subtle border
 }
 
 .dropdown-text {
-  color: $color4;
+color: $color3; // Light text in dropdown
 }
 
 .dropdown-item:hover {
-  background: $color2;
+background: $color9; // Lighter grey on hover
 }
 
+.dropdown-item:hover .dropdown-text {
+color: $color5 !important; // Cyan on hover
+}
 
 .bi-twitter-x {
-  background: $color4;
+background: $color4;
 }
 
-
-//Sidebar TOC
-.sidebar nav {
-
+// - Homepage Banner - //
+.hero-banner {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 70px;
+  min-height: 150px;
+  backdrop-filter: blur(4px);
+  position: relative;
+  
+  // Use ::before pseudo-element for overlay so it doesn't get overridden
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
+    pointer-events: none;
+  }
+  
+  // Ensure text is above the overlay
+  > * {
+    position: relative;
+    z-index: 1;
+  }
 }
 
 
 // -- Blog Grid Styling -- //
 .quarto-grid-item {
-  background: $color2;
+background: $color2; // Dark background for grid items
+border: 1px solid $color8; // Subtle border
 }
 
 .quarto-grid-item .listing-categories .listing-category {
-  color: $color5;
-  border-top-color: $color5;
-  border-bottom-color: $color5;
-  border-left-color: $color5;
-  border-right-color: $color5;
+color: $color5;
+border-top-color: $color5;
+border-bottom-color: $color5;
+border-left-color: $color5;
+border-right-color: $color5;
 }
 
 .listing-author {
-  color: $color5;
+color: $color4;
 }
 
 .listing-date {
-  color: $color5;
+color: $color4;
 }
 
 .category {
-  color: $color5;
+color: $color4;
 }
 
 .quarto-listing-category-title {
-  color: $color4;
+color: $color4;
 }
 
 .center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
- -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+margin: 0;
+position: absolute;
+top: 50%;
+left: 50%;
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
 }
-
 
 // Buttons
 .button-container {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
 }
 
 .button {
-  background-color: $color2; 
-  color: $color4;
-  padding: 15px 30px;;
-  border-radius: 5px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition-duration: 0.5s;
-  box-shadow: 0 10px 14px 0 rgba(0,0,0,0.24), 0 7px 12px 0 rgba(0,0,0,0.19);
+background-color: $color2;
+color: $color3; // Light text on dark button
+padding: 15px 30px;
+border-radius: 5px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+transition-duration: 0.5s;
+box-shadow: 0 10px 14px 0 rgba(0,0,0,0.5), 0 7px 12px 0 rgba(0,0,0,0.4); // Stronger shadow for dark theme
+border: 1px solid $color9; // Subtle border
 }
 
 .button:hover {
-  background-color: $color6; 
-  color: $color2;
-  padding: 15px 31px;;
-  border-radius: 3px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition-duration: 0.5s;
+background-color: $color5; // Cyan background on hover
+color: $color1; // Dark text on cyan
+padding: 15px 31px;
+border-radius: 3px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+transition-duration: 0.5s;
+border: 1px solid $color5;
 }
 
 @media screen and (max-width: 600px) {
-  .button-container {
-    align-items: flex-start; 
-  }
+.button-container {
+align-items: flex-start;
+ }
+}
+
+// Additional dark theme improvements
+body {
+background-color: $color1;
+color: $color7;
+}
+
+// Improve contrast for form elements
+input, textarea, select {
+background-color: $color2;
+color: $color3;
+border: 1px solid $color9;
+}
+
+input:focus, textarea:focus, select:focus {
+border-color: $color5;
+box-shadow: 0 0 0 2px rgba(3, 218, 247, 0.2);
+}
+
+// Scrollbar styling for dark theme
+::-webkit-scrollbar {
+width: 8px;
+}
+
+::-webkit-scrollbar-track {
+background: $color1;
+}
+
+::-webkit-scrollbar-thumb {
+background: $color9;
+border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: $color5;
 }

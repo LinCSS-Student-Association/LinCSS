@@ -1,7 +1,0 @@
----
-title: test title
-author: test person
-description: test description
-categories: [test, Guide]
-date: 2000-01-01
----

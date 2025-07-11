@@ -3,18 +3,25 @@
 ## This site is currently under construction
 :::
 
-<div class="center-text lightblue-h1"
- style="background-image: 
- linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)),
- url('https://raw.githubusercontent.com/LinCSS-Student-Association/LinCSS/refs/heads/main/ressources/banner.jpg');
- background-size: cover;
- background-position: center;
- background-repeat: no-repeat;
- padding: 70px;
- min-height: 150px;
- backdrop-filter: blur(4px);">
- Student Union of the LiU Computational Social Science Master Program
+<div class="center-text lightblue-h1 hero-banner" 
+     style="background-image: url('https://raw.githubusercontent.com/LinCSS-Student-Association/LinCSS/refs/heads/main/ressources/banner.jpg');">
+  LinCSS - Student Association of the LiU Computational Social Science Master Program
 </div>
+<br>
+We are LinCSS, the student association for the master’s program Computational Social Sciences at LiU. Together with the student representatives of your cohort, we are here to represent YOU, the students of the master’s program. Additionally, we want to improve your student life through fun and career-advancing events like the Welcoming Week, pub crawls, Alumni Q&As, and many more.
+
+[Want to join the action?](membership.qmd) Come be part of our community, or even apply for a board position and help us make things happen!
+
+<!--
+Introductory text:
+- We do cool Events
+- Send out Emails
+- Are there to help you
+- Reaching out do administration = ARE HERE TO REPRESENT YOU Conjointly with the student representatives
+- Connecting with Alumni
+
+- Plz join us, if you want even on the board (link to board membership)
+-->
 
 <!--
 <div class="center-text lightblue-h1"> Quick Navigation </div>

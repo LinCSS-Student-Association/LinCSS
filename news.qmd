@@ -18,7 +18,5 @@ listing:
   categories: true 
 ---
 
-You can review the following documents for additional information:
-
 ::: {#sample-listings}
 :::

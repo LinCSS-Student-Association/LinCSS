@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "news/template.html",
+    "href": "news/template.html",
+    "title": "Title",
+    "section": "",
+    "text": "Heading\nLorem Ipsum\n\\[Pr(y_{ij}=1) = \\frac{e^{Z_{ij}\\alpha_{ij} + X_i\\beta}}{\\sum_{k=1}^{K_i} e^{Z_{ik}\\alpha_{ik} + X_i\\beta}} = \\frac{e^{Z_{ij}\\alpha_{ij}}e^{X_i\\beta}}{\\sum_{k=1}^{K_i} e^{Z_{ik}\\alpha_{ik}}e^{X_i\\beta}}\\]"
+  },
+  {
     "objectID": "membership.html",
     "href": "membership.html",
-    "title": "Become a Member",
+    "title": "Support us!",
     "section": "",
-    "text": "Become a Member\n\nProfit from our Service\nHelp to provide a future for LinCSS\n\n\n\nBecome a Boardmember\n\nShape LinCSS\n\n\n\nLinCSS By-Laws\n📥 Download By-Laws PDF"
+    "text": "Support us!\nAs an official section we serve all students enrolled in the Computational Social Science Masterprogram. With your support you give us the opportunity to improve our services for you.\n\n\n\n\n\n\nNote\n\n\n\nWe are in the process of setting up a bankaccount. If you are interested in supporting us despite that or in non-monetary ways, feel free to get in touch!\n\n\n\n\nBecome a Boardmember\nAs part of the board you become part of the core of LinCSS. You will take part in our regular boardmeetings to organize events, take responsibilities and progress LinCSS as an organization.\n\n\nLinCSS By-Laws\n📥 Download By-Laws PDF"
   },
   {
     "objectID": "guides/internship.html",
@@ -65,9 +72,9 @@
   {
     "objectID": "board.html",
     "href": "board.html",
-    "title": "Corrent Board",
+    "title": "Board Members of LinCSS",
     "section": "",
-    "text": "Corrent Board\nMany nice pictures of us in a raster\n\n\nFormer Boardmembers\n\nThomas Schelling\nDarth Vader\nJean-Luc Picard"
+    "text": "Board Members of LinCSS\n\n\n\n\n\n\n\n\n\n👑 Barbara - President\n\n\n\n\n\n\n\n\n\n\n\n\n💸 Vincent - Treasurer\n\n\n\n\n\n\n\n📝 Viktor - Secretary\n\n\n\n\n\n\n\n🗣️ Aleksandra - PR\n\n\n\n\n\n\n\n\n\n✉️ Dominik - Alumni Contact\n\n\n\n\n\n\n\n🐲 Yannick - Creative Mind\n\n\n\n\n\n\n\n🧭 Johannes - Coordinator\n\n\n\n\n\n\n\n\n\n🕸️ Thomas - Webmaster\n\n\n\n\n\n\n\n👨‍🏫 Marc - Academic Advisor\n\n\n\n\n\n\n\n🥳 Yiwen - Event Coordinator\n\n\n\n\n\n\n\nFormer Boardmembers"
   },
   {
     "objectID": "guides/arrival.html",
@@ -81,7 +88,7 @@
     "href": "index.html",
     "title": "LinCSS",
     "section": "",
-    "text": "This site is currently under construction"
+    "text": "This site is currently under construction\nWe are LinCSS, the student association for the master’s program Computational Social Sciences at LiU. Together with the student representatives of your cohort, we are here to represent YOU, the students of the master’s program. Additionally, we want to improve your student life through fun and career-advancing events like the Welcoming Week, pub crawls, Alumni Q&As, and many more.\nWant to join the action? Come be part of our community, or even apply for a board position and help us make things happen!"
   },
   {
     "objectID": "index.html#useful-links",
@@ -102,6 +109,6 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "You can review the following documents for additional information:\n\n\n\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nInternship Guide\n\n\n\n\n\n\nGuide\n\nInternship\n\n\n\nThis Internshipguide helps you planning a potential Internship for your third Semester\n\n\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\ntest title\n\n\n\n\n\n\ntest\n\nGuide\n\n\n\ntest description\n\n\n\n\n\nJan 1, 2000\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nInternship Guide\n\n\n\n\n\n\nGuide\n\nInternship\n\n\n\nThis Internshipguide helps you planning a potential Internship for your third Semester\n\n\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nTitle\n\n\n\n\n\n\nTestcategory\n\nGuide\n\n\n\nDescription\n\n\n\n\n\nJan 1, 2000\n\n\n\n\n\nNo matching items"
   }
 ]
